@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Webware Expert Produkt Tutorial</title>
+    <link>http://example.org/</link>
+    <description>Recent content on Webware Expert Produkt Tutorial</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-de</language>
+    <lastBuildDate>Tue, 23 Apr 2019 12:51:11 +0200</lastBuildDate>
+    
+	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Tutorial Landingpage</title>
+      <link>http://example.org/landingpage/</link>
+      <pubDate>Tue, 23 Apr 2019 12:51:11 +0200</pubDate>
+      
+      <guid>http://example.org/landingpage/</guid>
+      <description>-- Seit 1998 sind wir als Webware-Experts OHG erfolgreich am industriellen Markt tätig. An unseren Standorten Marienwerder, Bernau bei Berlin und Wolfsburg entwickeln, planen und realisieren wir als IT-Dienstleistungsunternehmen fortschrittliche und innovative IT-Lösungen. Durch unsere Arbeit im Umfeld der Netzwerk- und Internettechnologien konnten wir in den vergangenen 21 Jahren ein technologisches und methodisches Know-how aufbauen. Das erlaubt es uns, branchenübergreifend mit verschiedenen Kundengruppen sowie Partnern zusammenzuarbeiten und individuelle IT-Leistungen bereitzustellen.</description>
+    </item>
+    
+  </channel>
+</rss>
